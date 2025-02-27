@@ -14,11 +14,11 @@
 
       .body {
         --color-main: #556B2F; /* 更深的橄欖綠 */
-        --color-primary: #3B5323; /* 更深的深綠色 */
+        --color-primary: #3B8323; /* 更深的深綠色 */
         --color-secondary: #5C5B3B; /* 更深的棕綠色 */
         --color-background: #202225; /* 更深的Discord深灰 */
         --color-link: #A28C46; /* 更深的沙色 */
-        --color-link-active: #3B5323; /* 更深的深綠色 */
+        --color-link-active: #3B8323; /* 更深的深綠色 */
 
         height: 400px;
         width: 100%;
