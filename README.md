@@ -10,5 +10,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OolongTeaOWO&layout=compact&theme=dark)
 
-## WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=OolongTeaOWO&theme=dark)
+## CodeTime Stats
+![CodeTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=OolongTeaOWO&theme=dark)
