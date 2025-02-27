@@ -1,48 +1,29 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/OolongTeaOWO/your-repo-name/raw/main/style.css">
-
 # Hi there, I'm OolongTeaOWO! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=OolongTeaOWO&color=blue)
+<img src="custom-style.svg" style="display:none;" />
 
-## About Me
+<h2 class="custom-heading">About Me</h2>
 
-- 🔭 I’m currently working on [Your Project Name](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with [specific technology or project]
-- 💬 Ask me about **Python**, **JavaScript**, and **Web Development**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about yourself]
+<p class="custom-paragraph">
+  - 🔭 I’m currently working on <a href="https://github.com/yourusername/yourproject">Your Project Name</a><br>
+  - 🌱 I’m currently learning <strong>Machine Learning</strong> and <strong>Data Science</strong><br>
+  - 👯 I’m looking to collaborate on open source projects<br>
+  - 🤔 I’m looking for help with [specific technology or project]<br>
+  - 💬 Ask me about <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>Web Development</strong><br>
+  - 📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+  - 😄 Pronouns: [Your Pronouns]<br>
+  - ⚡ Fun fact: [A fun fact about yourself]<br>
+</p>
 
 ## Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-
-### Web Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
-
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+<p class="custom-paragraph">
+  - **Programming Languages:** Python, JavaScript, Java, C++<br>
+  - **Web Development:** HTML, CSS, React, Node.js<br>
+  - **Data Science:** Pandas, NumPy, Scikit-Learn<br>
+  - **DevOps:** Docker, Kubernetes, Jenkins<br>
+  - **Databases:** MySQL, PostgreSQL, MongoDB<br>
+</p>
 
 ## GitHub Stats
 
@@ -54,9 +35,11 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?logo=about.me&logoColor=white&style=flat-square)](https://yourwebsite.com)
+<p class="custom-paragraph">
+  - <a href="https://linkedin.com/in/yourusername">LinkedIn</a><br>
+  - <a href="https://twitter.com/yourusername">Twitter</a><br>
+  - <a href="https://yourwebsite.com">Personal Website</a><br>
+</p>
 
 ## Recent Activity
 
