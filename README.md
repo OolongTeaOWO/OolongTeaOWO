@@ -6,3 +6,4 @@
 ## Top Langs
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OolongTeaOWO&layout=compact&theme=dark" height="180em"/>
 
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=OolongTeaOWO&theme=dark)
