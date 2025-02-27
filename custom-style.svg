@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+  <style>
+    .custom-heading {
+      fill: #0073e6;
+      font-family: Arial, sans-serif;
+    }
+    .custom-paragraph {
+      fill: #333;
+      background-color: #f0f0f0;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+  <text x="10" y="20" class="custom-heading">About Me</text>
+</svg>
