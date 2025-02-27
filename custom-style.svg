@@ -13,12 +13,12 @@
       }
 
       .body {
-        --color-main: #6B8E23; /* 橄欖綠 */
-        --color-primary: #4A5D23; /* 深綠色 */
-        --color-secondary: #8C7C45; /* 棕綠色 */
-        --color-background: #23272A; /* 更深的Discord深灰 */
-        --color-link: #C2B280; /* 沙色 */
-        --color-link-active: #4A5D23; /* 深綠色 */
+        --color-main: #556B2F; /* 更深的橄欖綠 */
+        --color-primary: #3B5323; /* 更深的深綠色 */
+        --color-secondary: #5C5B3B; /* 更深的棕綠色 */
+        --color-background: #202225; /* 更深的Discord深灰 */
+        --color-link: #A28C46; /* 更深的沙色 */
+        --color-link-active: #3B5323; /* 更深的深綠色 */
 
         height: 400px;
         width: 100%;
@@ -170,12 +170,12 @@
 
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #6B8E23;
-          --color-primary: #4A5D23;
-          --color-secondary: #8C7C45;
+          --color-main: #556B2F;
+          --color-primary: #3B5323;
+          --color-secondary: #5C5B3B;
           --color-background: #ffffff;
-          --color-link: #8C7C45;
-          --color-link-active: #4A5D23;
+          --color-link: #5C5B3B;
+          --color-link-active: #3B5323;
         }
       }
 
