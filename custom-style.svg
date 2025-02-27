@@ -13,12 +13,12 @@
       }
 
       .body {
-        --color-main: #ff9b71;
-        --color-primary: #ff4444;
-        --color-secondary: #e8e677;
-        --color-background: #0d1117;
-        --color-link: #fef29e;
-        --color-link-active: #ff4444;
+        --color-main: #78866b; /* 迷彩綠 */
+        --color-primary: #4b5320; /* 深綠 */
+        --color-secondary: #3d3c36; /* 深灰 */
+        --color-background: #2e2e2c; /* 深背景色 */
+        --color-link: #b3b3a5; /* 迷彩黃色 */
+        --color-link-active: #4b5320; /* 深綠 */
 
         height: 400px;
         width: 100%;
@@ -170,12 +170,12 @@
 
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #9B5DE5;
-          --color-primary: #F15BB5;
-          --color-secondary: #00BBF9;
+          --color-main: #6b8e23;
+          --color-primary: #556b2f;
+          --color-secondary: #8b4513;
           --color-background: #ffffff;
-          --color-link: #00BBF9;
-          --color-link-active: #F15BB5;
+          --color-link: #8b4513;
+          --color-link-active: #556b2f;
         }
       }
 
