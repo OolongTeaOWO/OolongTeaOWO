@@ -9,4 +9,5 @@
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=OolongTeaOWO&theme=dark)
 
 ![Followers](https://img.shields.io/github/followers/OolongTeaOWO?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=OolongTeaOWO)
 
