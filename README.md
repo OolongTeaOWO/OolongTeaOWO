@@ -1,7 +1,7 @@
 <div align="center">
   <img src="custom-style.svg" style="width: 100%;" alt="Click to see the source">
   
-## GitHub Stats & Top Langs&nbsp;&nbsp;&nbsp;    
+## GitHub Stats & Top Langs
 ![Followers](https://img.shields.io/github/followers/OolongTeaOWO?style=social)&nbsp;&nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=OolongTeaOWO)
 
   <br>
