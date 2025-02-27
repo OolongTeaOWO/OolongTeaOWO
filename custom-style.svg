@@ -16,7 +16,7 @@
         --color-main: #6B8E23; /* 橄欖綠 */
         --color-primary: #4A5D23; /* 深綠色 */
         --color-secondary: #8C7C45; /* 棕綠色 */
-        --color-background: #2C2F33; /* Discord深灰 */
+        --color-background: #23272A; /* 更深的Discord深灰 */
         --color-link: #C2B280; /* 沙色 */
         --color-link-active: #4A5D23; /* 深綠色 */
 
