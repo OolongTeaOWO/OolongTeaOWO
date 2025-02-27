@@ -120,17 +120,6 @@
         display: flex;
         letter-spacing: 0.125vw;
       }
-      ul li a {
-        margin-left: 5px;
-      }
-      ul li a:hover,
-      ul li a:focus {
-        color: var(--color-link-active);
-      }
-      ul li a {
-        color: var(--color-link);
-      }
-
       .hi {
         display: inline-block;
         transform-origin: 70% 70%;
@@ -214,10 +203,10 @@
             <li>Software Developer</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li>at Pragmatic Pineapple</li>
           </ul>
           <ul>
-            <li><a href="mailto:youremail@example.com" role="button"><span class='hi'>👋</span></a></li>
+            <li><span class='hi'>👋</span> youremail@example.com</li>
           </ul>
         </section>
       </div>
