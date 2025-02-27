@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-![Oolong Tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=OolongTeaOWO&show_icons=true&theme=radical)
+![Oolong Tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=OolongTeaOWO&show_icons=true&theme=default)
 
 ## Top Languages
 
